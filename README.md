@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm (Hola soy) Juan Carlos👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm (Hola soy) Juan Carlos👨‍💻</h1> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h3 align="center">🌱👨‍💻I am a Front-End developer with fundamentals in react, redux and vue. here you will see my works distributed in different categories and I hope to improve my skills in backend and frontend you can contact me on linkedin (Soy desarrollador Front-End con fundamentos en react,redux y vue. aqui veras mis trabajos repartidos en distintas categorias y espero mejorar mis habilidades en backend y frontend me puedes contactar en linkedin)👨‍💻🌱</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on [Academia Geek](https://github.com/academia-geek)
 
